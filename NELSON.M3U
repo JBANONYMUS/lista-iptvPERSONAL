@@ -20,7 +20,7 @@ https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 7
-https://vpss2003.streamprolive.com/hls/live.m3u8
+https://edge.livestreaminggroup.info/vtv32live/index.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 8
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
@@ -68,10 +68,10 @@ https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 23
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 24
-https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 25
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
@@ -92,13 +92,13 @@ https://streamunoapp.com:3255/live/palmartvlive.m3u8
 https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 31
-https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+https://edge.essastream.com/noticias16/playlist.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 32
 https://fox.hostlagarto.com:8081/puntotv/index.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 33
-https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 34
 https://live.ryetv.net/livelan/stream.m3u8
@@ -137,7 +137,7 @@ https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 46
-http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 47
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
@@ -209,7 +209,7 @@ https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 https://mlb.essastream.com:8081/xtratv/index.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 70
-https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 71
 https://live.obslivestream.com/makaomux/index.m3u8
@@ -249,6 +249,54 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 83
 https://x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 84
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 85
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 86
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 87
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 88
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 89
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjA4ZjNlZjJiLTlkNGItNGJjOS04NDAzLTkzODk0MzkyNGFkNCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NjE4NzY0OSwiaWF0IjoxNzc2MTAxMjQ5LCJqdGkiOiIwOTc2MDczOC1hMTE5LTQ4YjAtODgyNS02NDJiOGQwMTdhYmEifQ.hohQQ-ExMGd_wF3ALZSX38pXrm9Snp8KVsRT8z_mr0I
+
+#EXTINF:-1 group-title="RD",Canal 90
+https://edge.livestreaminggroup.info/colimdotvlive/index.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 91
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 92
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjA4ZjNlZjJiLTlkNGItNGJjOS04NDAzLTkzODk0MzkyNGFkNCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlclBhcnRuZXJTaG93U2xhdGUiOnsiZW5hYmxlZCI6dHJ1ZX19LCJpc3MiOiJzZXJ2aWNlLXBhcnRuZXItYXV0aC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOmMyRnRjM1Z1WjNSMmNHeDFjdz09IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NjE4NzY0OSwiaWF0IjoxNzc2MTAxMjQ5LCJqdGkiOiIwOTc2MDczOC1hMTE5LTQ4YjAtODgyNS02NDJiOGQwMTdhYmEifQ.hohQQ-ExMGd_wF3ALZSX38pXrm9Snp8KVsRT8z_mr0I
+
+#EXTINF:-1 group-title="RD",Canal 93
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 94
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 95
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 96
+https://dcs-live.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/manifest.m3u8?encp=_k2t72J_HxNepWCg1RpvJQ:pvMLtug0Ol7PvpOce5waaKzFMVXJKnjUKkwtwCpTr_5fezXLkl7JF7JpkC4Qy796XvZEQi2T3e4414PGHq5XgNbkYMwqQTQfKpMfuPVqA5q7yxJ2Mvaie8IP50Ajiy5d5GACEeTgQVC8UGnTWEKYciZulMRnJ9osvci58kwXqxAoyMrIxDC9l6zba9hKApZLcZb2Art5BGo9j-LZ8zkae7qQXX1e56xIpnCL0agBHnU1wkNqiSK8jSuuMZEQL4mMCzYcc3XxZ7cA81Fx-RqTk-AUuWCSlbvr-FRt7s6Y-126v2IwC4t5Rne_Pl12PATG9jSmJRZXU8h5FlxaRmAUDfOSXwaq7I1QbvTucycFsYxxwqPvgIYhQ6QI540GQswDQaKSdIzCCnBu1JePU2VdtOXftdZFWUeLUgg7yvbbTcNxI1yJ8lAqt6xniW8KeYUaAK5uI_dbfWw79umhHiOTH5uqvgUJXQIpn_iHRjXYcAcvpLGkkoDo9skVZKffH1AR-5Pj6CFJGeS7sdsiuK2NtsT_OeBJVokHrh1zw6posS9NqLCS_IFWWB4iiCmJZ-4dYvdAnn3MWgmdeLolvnMHBD-6lJ7rAcL428H-9mXjGlH9nCdFSlMv29njH3whN8j1SQZLiMMpYSSV1iRN-0Kq2NhAcAk1ph1Hw9haZcFaQHozUwOfuKnbbg3Q3xxuNw5kFw-WheiL97LG_dXMPp5RrQ&anvtrid=e337a1531b2199d3b80b96af08b19e0f&anvauth=tb=0~te=1776140884~sgn=620eccfe9d57ca4ce242628db0326283ba2d994bb3bf3273ffd54f221ae763bb&t=1776140794
+
+#EXTINF:-1 group-title="RD",Canal 97
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 98
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
+#EXTINF:-1 group-title="RD",Canal 99
+https://vpss2003.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="RD",Canal 111
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
