@@ -17,7 +17,7 @@ https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",6 - Canal del Sol
-https://stream.canaldelsol.com/sol26/live_1080.m3u8
+https://stream.canaldelsol.com/sol26/live_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",7 - Antena 7
 https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/medialist_15609871089997455276_hls.m3u8
