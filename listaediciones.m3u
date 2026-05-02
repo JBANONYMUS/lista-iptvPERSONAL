@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png" group-title="BONILLA DIGITAL TV", >>> SERVICIO SUSPENDIDO <<<
-https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png
-
-
+#EXTINF:-1, >>> SERVICIO SUSPENDIDO <<<
+http://0.0.0.0/paga_tu_plan_bonilla_tv
+#EXTINF:-1, >>> CONTACTE AL SOPORTE <<<
+http://0.0.0.0/soporte
