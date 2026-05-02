@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png" group-title="BONILLA DIGITAL TV", >>> SERVICIO SUSPENDIDO <<<
-https://vidadsl.com/cgi-bin/image_to_video.sh?url=https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png" group-title="BONILLA TV", >>> SERVICIO SUSPENDIDO <<<
+https://raw.githubusercontent.com/JBANONYMUS/lista-iptvPERSONAL/main/aviso.mp4.mp4
