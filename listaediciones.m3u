@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png" group-title="BONILLA TV", >>> SERVICIO SUSPENDIDO <<<
-https://raw.githubusercontent.com/JBANONYMUS/lista-iptvPERSONAL/main/aviso.mp4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27X1SccS/Certificado-de-Reconocimiento-Moderno-Corporativo-Azul.png" group-title="BONILLA TV" radio="false" codename="aviso", >>> SERVICIO SUSPENDIDO <<<
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/JBANONYMUS/lista-iptvPERSONAL/main/aviso.mp4.mp4#.m3u8
