@@ -1,271 +1,251 @@
-#EXTM3U
+#EXTM3U m3u-name="Bonix"
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",1 - RNN
+#EXTINF:-1 tvg-id="RNN" tvg-chno="1" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",RNN
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",2 - Las Estrellas (Teleantillas)
+#EXTINF:-1 tvg-id="TELEANTILLAS" tvg-chno="2" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Teleantillas (Las Estrellas)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",3 - Valle Visión
+#EXTINF:-1 tvg-id="VALLEVISION" tvg-chno="3" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Valle Visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",4 - CERTV Canal 4
+#EXTINF:-1 tvg-id="CANAL4" tvg-chno="4" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",CERTV Canal 4
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",5 - Romana TV
+#EXTINF:-1 tvg-id="ROMANATV" tvg-chno="5" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Romana TV
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",6 - Canal del Sol
+#EXTINF:-1 tvg-id="CANALDELSOL" tvg-chno="6" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",7 - Antena 7
+#EXTINF:-1 tvg-id="ANTENA7" tvg-chno="7" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Antena 7
 https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",8 - Hilando Fino TV
+#EXTINF:-1 tvg-id="HILANDOFINO" tvg-chno="8" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Hilando Fino TV
 https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",9 - Color Visión
+#EXTINF:-1 tvg-id="COLORVISION" tvg-chno="9" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Color Visión
 http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",10 - Musa Visión
+#EXTINF:-1 tvg-id="MUSAVISION" tvg-chno="10" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Musa Visión
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1272145654.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",11 - Ready TV HD
+#EXTINF:-1 tvg-id="READYTV" tvg-chno="11" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Ready TV HD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",12 - Telecanal 12 HD
+#EXTINF:-1 tvg-id="TELECANAL12" tvg-chno="12" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Telecanal 12 HD
 https://68aff552e1684.streamlock.net/teleunion/TU/chunklist_w171424829.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",13 - Telecentro
+#EXTINF:-1 tvg-id="TELECENTRO" tvg-chno="13" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Telecentro
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",14 - canal 14
+#EXTINF:-1 tvg-id="CANAL14" tvg-chno="14" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal 14
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",15 - Digital 15
+#EXTINF:-1 tvg-id="DIGITAL15" tvg-chno="15" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Digital 15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",16 - N16 Noticias
+#EXTINF:-1 tvg-id="N16" tvg-chno="16" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",N16 Noticias
 https://edge.essastream.com/noticias16/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",17 - RTVE Romana
+#EXTINF:-1 tvg-id="RTVE" tvg-chno="17" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",RTVE Romana
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",18 - La Reina TV
+#EXTINF:-1 tvg-id="LAREINATV" tvg-chno="18" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",La Reina TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",19 - Cinevisión 19
+#EXTINF:-1 tvg-id="CINEVISION19" tvg-chno="19" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Cinevisión 19
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/chunklist_w1721037851.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",20 - Nexxo tv
+#EXTINF:-1 tvg-id="NEXXOTV" tvg-chno="20" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Nexxo tv
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",21 - canal 21
+#EXTINF:-1 tvg-id="CANAL21" tvg-chno="21" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal 21
 https://d2qsan2ut81n2k.cloudfront.net/live/5365fbe2-4961-4e49-91bb-167328524f39/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",24 - SANTIAGO TV
+#EXTINF:-1 tvg-id="SANTIAGOTV" tvg-chno="24" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Santiago TV
 https://edge.essastream.com/telemilenio/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",25 - Galaxia TV
+#EXTINF:-1 tvg-id="GALAXIATV" tvg-chno="25" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Galaxia TV
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",26 - Canalda TV 26
+#EXTINF:-1 tvg-id="CANALDA" tvg-chno="26" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canalda TV 26
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",28 - Microvisión
+#EXTINF:-1 tvg-id="MICROVISION" tvg-chno="28" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Microvisión
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",29 - Teleuniverso
+#EXTINF:-1 tvg-id="TELEUNIVERSO" tvg-chno="29" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Teleuniverso
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",30 - TV Plata HD
+#EXTINF:-1 tvg-id="TVPLATA" tvg-chno="30" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",TV Plata HD
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",32 - VTV 32
+#EXTINF:-1 tvg-id="VTV32" tvg-chno="32" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",VTV 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",33 - Super Canal
+#EXTINF:-1 tvg-id="SUPERCANAL" tvg-chno="33" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Super Canal
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",34 relleno
+#EXTINF:-1 tvg-id="RELLENO34" tvg-chno="34" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal 34
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",35 - Canal 35
+#EXTINF:-1 tvg-id="CANAL35" tvg-chno="35" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal 35
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",36 - Mi Turno RD
+#EXTINF:-1 tvg-id="MITURNO" tvg-chno="36" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Mi Turno RD
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix", 37 - Manaclar TV
+#EXTINF:-1 tvg-id="MANACLAR" tvg-chno="37" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Manaclar TV
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix", 38 - Cibaeña TV
+#EXTINF:-1 tvg-id="CIBAENA" tvg-chno="38" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Cibaeña TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",39 - Onda TV
+#EXTINF:-1 tvg-id="ONDATV" tvg-chno="39" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Onda TV
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png"group-title="Bonix",40 - Órbit TV
+#EXTINF:-1 tvg-id="ORBITTV" tvg-chno="40" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Órbit TV
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",41 - Palmar TV
+#EXTINF:-1 tvg-id="PALMARTV" tvg-chno="41" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Palmar TV
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",42 - TeleNews
+#EXTINF:-1 tvg-id="TELENEWS" tvg-chno="42" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",TeleNews
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",44 - tele hola
+#EXTINF:-1 tvg-id="TELEHOLA" tvg-chno="44" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tele Hola
 https://teleola.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",45 - Roca Visión TV
+#EXTINF:-1 tvg-id="ROCAVISION" tvg-chno="45" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Roca Visión TV
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",46 - CDN / RTEVE 37
+#EXTINF:-1 tvg-id="CDN37" tvg-chno="46" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",CDN / RTEVE 37
 https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",47 - Ruta 66 TV
+#EXTINF:-1 tvg-id="RUTA66" tvg-chno="47" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Ruta 66 TV
 https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",48 - San Isidro TV
+#EXTINF:-1 tvg-id="SANISIDRO" tvg-chno="48" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",San Isidro TV
 https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",49 - Super Digital TV
+#EXTINF:-1 tvg-id="SUPERDIGITAL" tvg-chno="49" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Super Digital TV
 https://inliveserver.com:1936/11516/11516/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",50 - Pula TV
+#EXTINF:-1 tvg-id="PULATV" tvg-chno="50" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Pula TV
 https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",51 - SUR TV
+#EXTINF:-1 tvg-id="SURTV" tvg-chno="51" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",SUR TV
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",52 - Telenord noticias
+#EXTINF:-1 tvg-id="TELENORD10" tvg-chno="52" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Telenord Noticias
 https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",54 - Telenord 
+#EXTINF:-1 tvg-id="TELENORD12" tvg-chno="54" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Telenord 12
 https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",55 - cristiano
+#EXTINF:-1 tvg-id="CRISTIANO" tvg-chno="55" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal Cristiano
 https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/chunklist_w763458672.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",56 - Orgullo Dominicano
+#EXTINF:-1 tvg-id="ORGULLO56" tvg-chno="56" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Orgullo Dominicano
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",57 - Tele Ver
+#EXTINF:-1 tvg-id="TELEVER" tvg-chno="57" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tele Ver
 https://soportedvb.click:3413/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",58 - Tele Vida
+#EXTINF:-1 tvg-id="TELEVIDA" tvg-chno="58" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tele Vida
 https://cnn.hostlagarto.com/televida/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",59 - Luna TV
+#EXTINF:-1 tvg-id="LUNATV" tvg-chno="59" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Luna TV
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",60 - Tiguerito TV
+#EXTINF:-1 tvg-id="TIGUERITOTV" tvg-chno="60" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",62 - Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON" tvg-chno="62" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Cartoon Network
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",63 - Tour Sport
+#EXTINF:-1 tvg-id="TOURSPORT" tvg-chno="63" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tour Sport
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",64 - Canal de Música
+#EXTINF:-1 tvg-id="MUSICA64" tvg-chno="64" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Canal de Música
 https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",65 - TV Éxitos
+#EXTINF:-1 tvg-id="TVEXITOS" tvg-chno="65" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",TV Éxitos
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",66 - Valle Nuevo TV
+#EXTINF:-1 tvg-id="VALLENUEVO" tvg-chno="66" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Valle Nuevo TV
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",67 - Vegateve
+#EXTINF:-1 tvg-id="VEGATEVE" tvg-chno="67" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Vegateve
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",68 - Villa Altagracia TV
+#EXTINF:-1 tvg-id="VILLAALTAGRACIA" tvg-chno="68" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Villa Altagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",69 - Visión 3000
+#EXTINF:-1 tvg-id="VISION3000" tvg-chno="69" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Visión 3000
 https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",71 - Makao Radio TV
+#EXTINF:-1 tvg-id="MAKAORADIO" tvg-chno="71" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Makao Radio TV
 https://live.obslivestream.com/makaomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",72 - Digital 809 TV
+#EXTINF:-1 tvg-id="DIGITAL809" tvg-chno="72" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Digital 809 TV
 https://inliveserver.com:1936/digital809tv/digital809tv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",73 - Faro Visión
+#EXTINF:-1 tvg-id="FAROVISION" tvg-chno="73" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Faro Visión
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",74 - Mega Cine TV
+#EXTINF:-1 tvg-id="MEGACINE" tvg-chno="74" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",75 - Mega Visión
+#EXTINF:-1 tvg-id="MEGAVISION" tvg-chno="75" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Mega Visión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo"https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",77 - Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-chno="77" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Nickelodeon
 https://x1co.com.br/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",78 - Multivisión
+#EXTINF:-1 tvg-id="MULTIVISION" tvg-chno="78" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Multivisión
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",79 - Claro Visión TV
+#EXTINF:-1 tvg-id="CLAROVISION" tvg-chno="79" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Claro Visión TV
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",80 - Golf Channel
+#EXTINF:-1 tvg-id="GOLF" tvg-chno="80" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Golf Channel
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",82 - Disney Channel
+#EXTINF:-1 tvg-id="DISNEY82" tvg-chno="82" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Disney Channel
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",83 - ESPN Feed
+#EXTINF:-1 tvg-id="ESPN" tvg-chno="83" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",ESPN Feed
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",85 - Tu Sports
+#EXTINF:-1 tvg-id="TUSPORTS" tvg-chno="85" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Tu Sports
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",87 - Streamprolive
+#EXTINF:-1 tvg-id="STREAMPRO" tvg-chno="87" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Streamprolive
 https://vpss2003.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",88 - Telemundo PR
+#EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-chno="88" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",89 - DW ESPAÑOL
- https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DWESPANOL" tvg-chno="89" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",90 - VEGATEVE
+#EXTINF:-1 tvg-id="VEGATEVE90" tvg-chno="90" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Vegateve (Alt)
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",91 - ORGULLO DOMINICANO
+#EXTINF:-1 tvg-id="ORGULLO91" tvg-chno="91" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Orgullo Dominicano (Alt)
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",92 - BAJO TECHO TV
+#EXTINF:-1 tvg-id="BAJOTECHO" tvg-chno="92" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Bajo Techo TV
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",93 - Señal colombiana
+#EXTINF:-1 tvg-id="SENALCOLOMBIA" tvg-chno="93" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",94 - GH
+#EXTINF:-1 tvg-id="GH94" tvg-chno="94" tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",GH Televisión
 https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
