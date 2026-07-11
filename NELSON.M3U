@@ -1,8 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",1 - RNN
-https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",1 - DHE
+http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",2 - Teleantillas
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(2nI7aywispZPK3VWHtb2vHrlK68IbQj_zecpktWb4h47-q8WCqd9yiCgH2EyXWZOaE7St6Pdgsy50LmXFAhxrtnug-druY4g81vSS7IRuIlHbrOqMBYcNBxq9C8GPL4Z)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
@@ -22,8 +21,8 @@ https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",7 - Antena 7
 https://d2qsan2ut81n2k.cloudfront.net/live/3bc8d309-7e74-46ec-bb09-18afc6de1e86/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",8 - Hilando Fino TV
-https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",8 - RNN
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",9 - Color Visión
 http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
@@ -298,7 +297,8 @@ https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",115 - Manaclar TV
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",116 - Hilando Fino TV
+https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
 
 
 
