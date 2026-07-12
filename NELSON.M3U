@@ -4,7 +4,7 @@
 http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",2 - Teleantillas
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(2nI7aywispZPK3VWHtb2vHrlK68IbQj_zecpktWb4h47-q8WCqd9yiCgH2EyXWZOaE7St6Pdgsy50LmXFAhxrtnug-druY4g81vSS7IRuIlHbrOqMBYcNBxq9C8GPL4Z)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(0KYD0pr-YItv67KWeYwmwNwV4tEt2a6br0BFGpB6rHFg8OQUmlqYNs-fRvTSN7wXv3jmuENEe9a7d3ouvU8-UAwUP10Q7VjmI-ReUbmi5Z6LEE5_3Ua3IiOQzI3wjDed)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",3 - Valle Visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
@@ -97,13 +97,13 @@ https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",37 - CDN deportes
-https://live.eu-north-1b.cf.dmcdn.net/sec2(tZS2Bt4t_On0vp9y8I--aJBC44-EZaIGOjGI6iu2RhPNeoVijIZWNs_cIApiKg7H5hVTaIRDvPvSfqDWOScbBVkrDp3uRQHILNFJ436FU0aVUbZqSAPXxbOUjD2TpXR_DSMOIPCv6iUFnLigyrgw-g)/dm/3/x9lntl6/s/live-480.m3u8?startdate=2026-07-09T22%3A36%3A53%2B0000#cell=lcf-eu-north-1b
+https://live.eu-north-1b.cf.dmcdn.net/sec2(sGqDgzQL5wSrCUYgOyFNJ9fI6Vn2O246GkbwHMjjnwUlJkSlQEPzuWwArYwEoBMF_ZN_jihb8TpaJvfKI27dUEQdHxZiMGeJHUXULXNqBmNAcyf_ldcCiPpTFXctAu_AMlBoyoybK8j8hxF9zEh43Q)/dm/3/x9lntl6/s/live-480.m3u8?startdate=2026-07-12T12%3A14%3A40%2B0000#cell=lcf-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",38 - Cibaeña TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" group-title="Bonix",39 - coral 39
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(w7XisIbl30hOBSPYsnl-3tg0nLCl9a9JIKy7oZYslhd6qe6Iwi8G_6dnnEHiXVKk6g2mQVXqJtaGVZ4pbNgOdCa8wmGOI0uG6dksuLayx8Nl3C8EKTV8At6LzTIaylpK)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(KElNp-Ap7LvRq1jrvxAPiOqvbbfQOoRngYmgLVEjECIVOxjieRowrDInWaxXEyIl2PqEJAz1vYByri2YmdCVGyyO93J4lKhptlOKKdoNAxjIG3mf-KQss-k_VMVYKn5y)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png"group-title="Bonix",40 - Órbit TV
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
