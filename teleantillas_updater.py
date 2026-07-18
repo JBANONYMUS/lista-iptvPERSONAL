@@ -327,71 +327,37 @@ def get_github_file(config):
 
 
 def find_and_replace(m3u_content, canal_nombre, new_url):
-
-    lines = m3u_content.split("\n")
-
+    lines = m3u_content.splitlines()
 
     for i, line in enumerate(lines):
 
         if canal_nombre.lower() in line.lower():
 
+            log(f"  Encontrado: {line}")
 
-            for j in range(
-                i + 1,
-                len(lines)
-            ):
+            if i + 1 < len(lines):
 
+                siguiente = lines[i + 1].strip()
 
-                actual = lines[j].strip()
+                # Reemplaza directamente la línea siguiente al EXTINF
+                if siguiente != new_url:
 
+                    lines[i + 1] = new_url
 
-                if (
-                    actual == "#INSERTAR_LINK_AQUI"
-                    or
-                    (
-                        actual
-                        and
-                        not actual.startswith("#")
-                    )
-                ):
+                    log(f"  {canal_nombre}: URL reemplazada correctamente")
 
+                    return "\n".join(lines), True
 
-                    if actual != new_url:
+                else:
 
-                        lines[j] = new_url
+                    log(f"  {canal_nombre}: misma URL")
 
-                        log(
-                            f"  {canal_nombre}: URL actualizada"
-                        )
-
-                        return (
-                            "\n".join(lines),
-                            True
-                        )
+                    return "\n".join(lines), False
 
 
-                    else:
+    log(f"  ✗ No encontrado: {canal_nombre}")
 
-                        log(
-                            f"  {canal_nombre}: sin cambios"
-                        )
-
-                        return (
-                            "\n".join(lines),
-                            False
-                        )
-
-
-    log(
-        f"  ✗ No encontrado: {canal_nombre}"
-    )
-
-
-    return (
-        m3u_content,
-        False
-    )
-
+    return m3u_content, False
 
 
 
