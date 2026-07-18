@@ -88,13 +88,13 @@ https://stream.haislin.com/ahoratv/index.m3u8
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="37" group-title="Bonix",CDN deportes
-#INSERTAR_LINK_AQUI
+https://live.eu-north-1a.cf.dmcdn.net/sec2(8dnIybRazObki7PkMsu36PMj9CkW4d2BjK8syzwu8HYnqcHYI54WjflwSt62V5RO_XfgbXOJO3jPP2MA8EX8ioWPmy-bdgr9_Fs4KBgi9Julhkt07AIxZemkcVegbU9v)/dm/3/x9lntl6/s/live-480.m3u8?startdate=2026-07-16T10%3A08%3A24%2B0000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="38" group-title="Bonix",Cibaeña TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="39" group-title="Bonix",Coral 39
-#INSERTAR_LINK_AQUI
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="40" group-title="Bonix",Órbit TV
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(AGFCVOn9aKQoLmmvdPZe6D0QPcK2mdRbV1ZsOIhUrmwQT6I-Ysemup27_804F1mlbSIp3pMVL_H6Nj3wHDL73Vr4LdPHXDIM5PhzYM1TNzXRCgCORTGyJB6IcdcXCEbl)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
