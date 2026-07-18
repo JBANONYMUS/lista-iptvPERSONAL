@@ -110,7 +110,7 @@ def find_and_replace(m3u_content, canal_nombre, new_url):
     """Busca y reemplaza URL del canal"""
     lines = m3u_content.split('\n')
     cambiado = False
-    
+
     for i, line in enumerate(lines):
         if canal_nombre in line:
             for j in range(i+1, len(lines)):
@@ -121,7 +121,7 @@ def find_and_replace(m3u_content, canal_nombre, new_url):
                         log(f"  {canal_nombre}: URL actualizada")
                     break
             break
-    
+
     return '\n'.join(lines), cambiado
 
 def update_github(config, content, sha, cambios):
