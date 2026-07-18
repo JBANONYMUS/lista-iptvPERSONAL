@@ -26,5 +26,5 @@ jobs:
 
       - name: Ejecutar updater
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_PERSONAL }}
+          GITHUB_TOKEN: ${{ secrets.CANALES_ACTUALIZADOS }}
         run: python teleantillas_updater.py
