@@ -4,7 +4,7 @@
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="2" group-title="Bonix",Teleantillas
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(meROHmcTPTO4PZ839NxF1mL2gDW-1ldS8OH_VisZOmrPlZVTJ5OkAyKyE1T1MAtYyXqRrCYNHa6qnCVISKcjodBTZZrmdXqhs_0EUADCqWLSgRWiFqEiyEBX9yOSm8Qz)/cloud/3/x8mwmvs/s/live-480.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(lFujgRee8z-eQgJS2g6f4yqQtRVlHnTJKjvFPPkwPhsxExr1kBAqwne_lSq0wgwVrOeIdRU1k_IL1GbJmCjyTWJKUYLbC_NgLkaO3Di7g-xnCdGEw3bwLjyx0SLd5-pL)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="3" group-title="Bonix",Valle Visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
@@ -97,7 +97,7 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #INSERTAR_LINK_AQUI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="40" group-title="Bonix",Órbit TV
-https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(IXjnZpDkpdjtj7udE0yRI2RtywECPjbPzhySPVl4aWezDjcKh64ngMm6t8GlpBdqUW8I0DGHtFfjmDkbhjK2GrRCkFC93dmTHIeNN5zm_5oe8GRY8JCymYLn38sg9yM8)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="41" group-title="Bonix",Bellavision TV
 https://cdnfox.hostlagarto.com/bellavision8hd/tracks-v1a1/mono.m3u8
