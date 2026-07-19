@@ -327,24 +327,28 @@ def get_github_file(config):
 
 
 def find_and_replace(m3u_content, canal_nombre, new_url):
+
     lines = m3u_content.splitlines()
 
     for i, line in enumerate(lines):
 
         if canal_nombre.lower() in line.lower():
 
-            log(f"  Encontrado: {line}")
+            log(f"  ENCONTRADO: {line}")
 
             if i + 1 < len(lines):
 
-                siguiente = lines[i + 1].strip()
+                vieja_url = lines[i + 1].strip()
 
-                # Reemplaza directamente la línea siguiente al EXTINF
-                if siguiente != new_url:
+                log(f"  URL VIEJA: {vieja_url[:80]}...")
+                log(f"  URL NUEVA: {new_url[:80]}...")
+
+
+                if vieja_url != new_url:
 
                     lines[i + 1] = new_url
 
-                    log(f"  {canal_nombre}: URL reemplazada correctamente")
+                    log(f"  {canal_nombre}: URL actualizada")
 
                     return "\n".join(lines), True
 
