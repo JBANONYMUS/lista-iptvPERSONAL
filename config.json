@@ -29,6 +29,14 @@
       "tipo": "dailymotion",
       "video_id": "xaio352",
       "embedder": "https://teleuniversotv.com/en-vivo/"
+    },
+    {
+      "nombre": "Teleuniverso",
+      "tipo": "dailymotion",
+      "video_id": "xaio352",
+      "embedder": "https://teleuniversotv.com/en-vivo/"
     }
+
+  
   ]
 }
