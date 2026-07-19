@@ -4,7 +4,7 @@
 http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="2" group-title="Bonix",Teleantillas
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(PrEMYcsgVL2wiCso-w5IigNrkL7fMy3e9VMe4Pqz9FT1Zf2KGRvhtYUfQ-p5jH8biEMeiJJsgfA6OiR1CpC8QLPzh7nX6kMsjJ7T5PoLtkdO2hyLpFTV7TnAlLAIY0G1)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(VEgs5EORm091CE3-4r685WVEO3BnjDwyqU2jEpEjqSSVnpM0SEJUDr_V53_-6Ws1hZ4O23CGYY78FD-XjE1H4RKQQ4FHGB0mdLKFnSzF0Ft9WUmoVDDwIwmjz0LPYH1-)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="3" group-title="Bonix",Valle Visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
@@ -85,7 +85,7 @@ https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="29" group-title="Bonix",Teleuniverso
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(lvOsiuA_Ocp0b4BjeEv0-T8UOApmpA8wCla9YdAsQPM2yZiltsbAup2vK7NufRKp31fTjUBgTJJodth5hmHOJ78w4cHSPC9nsiSNwkx1Uq8YJO-xIyhyum-lAR5v0QxX)/cloud/3/xaio352/s/live-480.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(IEvMnhFIiujVHnSAzF7hFw8EpxtzFWTQUd7CucsY2ZcjVNXmSpFDWm_ZN6uDQxMfFgSxHjDZvjLhvPUFUWuoQjeGrNbtJyQlsVszcWawta-b4-_PD89HRRCrGZt92Mle)/cloud/3/xaio352/s/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="30" group-title="Bonix",TV Plata HD
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
@@ -115,9 +115,10 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(_LNFqB3qvMFOg3yO384kfZKWMDteUVokTiR_D
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="39" group-title="Bonix",Coral 39
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(Uo7nm8s_vicRBEOi1s0Z6hVb9eDNu6cywlYTGcGtZEne_4TCTFyJtHDkjmuYLciVgKRKwmzPXmnY4ZauNfYyEDtEJY5FArxfplkp3oKGXsonvtKEWUuGEQOLAvAaPVbs)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(tG_sYb12TSFf-PygBKJ3DgvymrR7fJ22W3MFI0eb1yOhZDy02077A5c_xwQZmcSUmdsm93WyepSEx8eoUNFJll7ITM7f6C1nroNpWpXUFkxwjMkf0zj9TbnnBj3Y8Bsm)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="40" group-title="Bonix",Órbit TV
+https://edge.essastream.com/orbittv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="41" group-title="Bonix",Bellavision TV
 https://cdnfox.hostlagarto.com/bellavision8hd/tracks-v1a1/mono.m3u8
@@ -272,68 +273,69 @@ https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="91" group-title="Bonix",Ready TV HD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="92" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="92" group-title="Bonix",ANIME ZON
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0NTI1MjQ4LCJpYXQiOjE3ODQ0Mzg4NDgsImp0aSI6IjdkNjJiNjk1LTMzMTItNDk3MS05OTFiLWZkOTU2ZGVmMjc5ZiJ9.QEoX4n394llwdOSlPYLloOANTlPXXHwUcxBg7zgbqiw
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="93" group-title="Bonix",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="93" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="94" group-title="Bonix",Euronews Español
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0NTI1MjQ4LCJpYXQiOjE3ODQ0Mzg4NDgsImp0aSI6IjdkNjJiNjk1LTMzMTItNDk3MS05OTFiLWZkOTU2ZGVmMjc5ZiJ9.QEoX4n394llwdOSlPYLloOANTlPXXHwUcxBg7zgbqiw
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="95" group-title="Bonix",TeleSUR
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0NTI1MjQ4LCJpYXQiOjE3ODQ0Mzg4NDgsImp0aSI6IjdkNjJiNjk1LTMzMTItNDk3MS05OTFiLWZkOTU2ZGVmMjc5ZiJ9.QEoX4n394llwdOSlPYLloOANTlPXXHwUcxBg7zgbqiw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="94" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="96" group-title="Bonix",RT en Español
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="97" group-title="Bonix",ENTRETENIMIENTO
+https://stream.inliveserver.com:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="95" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="98" group-title="Bonix",Bloomberg TV
+https://cdnfox.hostlagarto.com/puntotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="99" group-title="Bonix",Sky News
+https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="96" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="100" group-title="Bonix",France 24 Español
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0NTI1MjQ4LCJpYXQiOjE3ODQ0Mzg4NDgsImp0aSI6IjdkNjJiNjk1LTMzMTItNDk3MS05OTFiLWZkOTU2ZGVmMjc5ZiJ9.QEoX4n394llwdOSlPYLloOANTlPXXHwUcxBg7zgbqiw
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="101" group-title="Bonix",Marka
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="97" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="102" group-title="Bonix",Oxi TV 
+https://edge.essastream.com/miavisiontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="103" group-title="Bonix",Punto TV
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="98" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="104" group-title="Bonix",Morro TV
+https://cdnfox.hostlagarto.com/puntotv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="105" group-title="Bonix",ANIME 2
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="99" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="106" group-title="Bonix",Marka TV
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="107" group-title="Bonix",Tubi TV
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="100" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="108" group-title="Bonix",TVE Internacional
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="109" group-title="Bonix",DW Noticias
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="101" group-title="Bonix",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="110" group-title="Bonix",InLive TV
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="102" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="103" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="104" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="105" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="106" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="107" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="108" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="109" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="110" group-title="Bonix",
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="111" group-title="Bonix",
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="111" group-title="Bonix",anime tv
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YzVkMmFlLTIzODgtNDg3Ny1hMTM1LTFiN2RhZDJkYjMxYSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg0NTI1MjQ4LCJpYXQiOjE3ODQ0Mzg4NDgsImp0aSI6IjdkNjJiNjk1LTMzMTItNDk3MS05OTFiLWZkOTU2ZGVmMjc5ZiJ9.QEoX4n394llwdOSlPYLloOANTlPXXHwUcxBg7zgbqiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="112" group-title="Bonix",Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgKYXQK5/LOGO-DIGITAL.png" tvg-chno="113" group-title="Bonix",tlnovelas
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+
