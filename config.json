@@ -31,12 +31,49 @@
       "embedder": "https://teleuniversotv.com/en-vivo/"
     },
     {
-      "nombre": "Teleuniverso",
+      "nombre": "Telesistema",
       "tipo": "dailymotion",
-      "video_id": "xaio352",
-      "embedder": "https://teleuniversotv.com/en-vivo/"
+      "video_id": "x80ac48",
+      "embedder": "https://telesistema11.com.do/"
+    },
+    {
+      "nombre": "Telefuturo",
+      "tipo": "dailymotion",
+      "video_id": "x9imtbq",
+      "embedder": "https://www.televisiondominicanaenvivo.com/telefuturo-canal-23/"
+    },
+    {
+      "nombre": "Telemedios",
+      "tipo": "dailymotion",
+      "video_id": "x9hvyy0",
+      "embedder": "https://telemedios.com.do/"
     }
 
   
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ]
 }
