@@ -2,7 +2,7 @@
   "github_token": "${{ secrets.GITHUB_TOKEN }}",
   "github_user": "JBANONYMUS",
   "github_repo": "lista-iptvPERSONAL",
-  "file_path": "NELSON.M3U",
+  "file_path": "Canales.m3u",
   "branch": "main",
 
   "canales": [

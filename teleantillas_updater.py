@@ -438,7 +438,7 @@ def main():
 
 
     log(
-        "Descargando NELSON.M3U..."
+        "Descargando Canales.m3u..."
     )
 
 
